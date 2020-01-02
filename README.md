@@ -1,4 +1,5 @@
-*********************Survival Game instruction file**************************
+*********************Survival Game in OPENGL instruction file**************************
+
 ->> To run the code type g++ game.cpp -lGL -lGLU -lglut
 
 ->> This game consists of two main objects
